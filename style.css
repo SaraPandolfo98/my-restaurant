@@ -1,9 +1,9 @@
 body{
-    background-color: lightblue;
+    background-color: rgb(162, 176, 181);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-    color:red;
+    color:rgb(100, 189, 36);
 }
 .contact-form{
     background-color: lightcoral;
